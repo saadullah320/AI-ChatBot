@@ -15,7 +15,7 @@ This is an AI-powered chatbot application built using React and Vite. The chatbo
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/saadullah320/AI-ChatBot.git
    cd Ai-Chatbot
 2. npm install
 3. VITE_CHATBOT_API_KEY=your-api-key
